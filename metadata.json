@@ -1,0 +1,5 @@
+{
+  "name": "Emotion Detector AI",
+  "description": "A simple web application that uses the Gemini API to analyze text and detect the dominant emotion. Enter any text to see the AI's analysis of its emotional tone.",
+  "requestFramePermissions": []
+}
